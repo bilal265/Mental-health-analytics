@@ -78,3 +78,8 @@ The dataset contains anonymized student records with features like GPA, sleep pa
    ```bash
    git clone https://github.com/bilal265/depression-detection.git
    cd depression-detection
+
+2. Install dependencies:
+  ```bash
+  pip install pandas numpy scikit-learn xgboost matplotlib seaborn
+    
