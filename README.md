@@ -38,7 +38,7 @@ This project aims to identify university students at risk of depression using a 
 
 The dataset contains anonymized student records with features like GPA, sleep patterns, social engagement, and academic stress. 
 
-**Source**: [Student Depression Dataset](https://raw.githubusercontent.com/HackBio-Internship/2025_project_collection/main/Python/Dataset/Student%20Depression%20Dataset.csv)  
+**Source**: [Depression Dataset](https://raw.githubusercontent.com/bilal265/Mental-health-analytics/refs/heads/main/Depression%20Dataset.csv)  
 **Features**:
 - `Gender`, `Age`, `Major` (demographic)
 - `GPA`, `Academic_Stress` (academic)
